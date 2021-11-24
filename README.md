@@ -46,9 +46,9 @@ To increase our accuracy we are using precision score to analyse the models. To 
 This gives us the precision of our model.
 
 Top 5 parameter combinations are should in the code file.
-![image](https://user-images.githubusercontent.com/94940044/143151427-bcc818f9-7d39-44d6-9eee-62fe16261f21.png) <br>
+![image](https://user-images.githubusercontent.com/94940044/143151427-bcc818f9-7d39-44d6-9eee-62fe16261f21.png) 
 
-
+<br>
 
 
 We can see that the model3 parameter combination works the best. We then used it on our final model.Doing so the best score which we got for ALS model 0.19729. Although there could be many more possible combinations of parameters the model 3 gave the best results.
