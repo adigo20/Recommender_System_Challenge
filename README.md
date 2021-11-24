@@ -46,7 +46,8 @@ To increase our accuracy we are using precision score to analyse the models. To 
 This gives us the precision of our model.
 
 Top 5 parameter combinations are should in the code file.
-![image](https://user-images.githubusercontent.com/94940044/143151427-bcc818f9-7d39-44d6-9eee-62fe16261f21.png)
+![image](https://user-images.githubusercontent.com/94940044/143151427-bcc818f9-7d39-44d6-9eee-62fe16261f21.png) <br>
+
 
 
 
@@ -66,7 +67,7 @@ Fine tuning –
 We used implicit.evaluation ‘s precision_at_k function. This gives us the precision of our model.
 Top 5 parameter combinations are should in the code file.
 
-![image](https://user-images.githubusercontent.com/94940044/143151526-6105f6ed-e482-4dee-9ba9-f739cbb3ee39.png)
+![image](https://user-images.githubusercontent.com/94940044/143151526-6105f6ed-e482-4dee-9ba9-f739cbb3ee39.png) <br>
 
 
 
