@@ -67,9 +67,9 @@ Fine tuning –
 We used implicit.evaluation ‘s precision_at_k function. This gives us the precision of our model.
 Top 5 parameter combinations are should in the code file.
 
-![image](https://user-images.githubusercontent.com/94940044/143151526-6105f6ed-e482-4dee-9ba9-f739cbb3ee39.png) <br>
+![image](https://user-images.githubusercontent.com/94940044/143151526-6105f6ed-e482-4dee-9ba9-f739cbb3ee39.png) 
 
-
+<br>
 
 The model-4 had the precision score.
 On using the parameters and uploading the results on Kaggle. The score which was achieved
@@ -145,9 +145,8 @@ search.
 
 
 Reference –
-• https://www.mygreatlearning.com/blog/introduction-to-spectral-clustering/
-• https://implicit.readthedocs.io/en/latest/lmf.html
-• https://scikitlearn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.
-html
-• https://scikit-learn.org/stable/modules/clustering.html#affinity-propagation
-• https://realpython.com/k-means-clustering-python/
+• https://www.mygreatlearning.com/blog/introduction-to-spectral-clustering/ <br>
+• https://implicit.readthedocs.io/en/latest/lmf.html <br>
+• https://scikitlearn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html <br>
+• https://scikit-learn.org/stable/modules/clustering.html#affinity-propagation <br>
+• https://realpython.com/k-means-clustering-python/ <br>
